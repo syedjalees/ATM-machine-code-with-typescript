@@ -1,0 +1,25 @@
+{
+  "name": "simple_atm_by_syd_jalees512",
+  "version": "1.1.0",
+  "description": "This is a simple ATM machine code with typescript, Node Js and Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": {
+    "simple_atm_by_syd_jalees512": "ATM.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Syed Jalees Akbar",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.17",
+    "simple_atm_by_syd_jalees512": "^1.1.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
